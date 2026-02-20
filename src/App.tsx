@@ -1,4 +1,3 @@
-// src/App.tsx
 import { useEffect, useState } from 'react';
 import './App.css';
 import type { ApiResponse, Character } from './types/character';

@@ -1,4 +1,3 @@
-// src/components/Character/CharacterCard.tsx
 import type { Character } from '../types/character';
 
 type Props = {
